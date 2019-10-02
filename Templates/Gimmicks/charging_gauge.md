@@ -15,7 +15,7 @@ This charging gauge template includes code for making a functional gauge, includ
 - [x] Spending gauge when using an attack to alter the attack's hitboxes, with an option to not spend gauge
 - [ ] Spending gauge when using an attack to alter the attack's window
 - [ ] Spending gauge only when hitting an attack (this would use `GAUGE_NAME_USED`)
-- [ ] *[Your suggestion here]*
+- [ ] Charging up gauge overtime
 
 # Scripts
 
